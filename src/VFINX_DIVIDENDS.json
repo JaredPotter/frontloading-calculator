@@ -1,0 +1,1342 @@
+{
+    "data": {
+        "CumulativeCashDividend": 63.7719,
+        "Delay": 0.0419707,
+        "Outcome": "Success",
+        "CashDividends": [
+            {
+                "DividendAmount": 1.2287,
+                "Currency": "USD",
+                "ExDate": "2019-09-25",
+                "PayDate": "2019-09-26",
+                "RecordDate": "2019-09-24",
+                "DeclaredDate": "2019-09-24",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.3078,
+                "Currency": "USD",
+                "ExDate": "2019-06-26",
+                "PayDate": "2019-06-27",
+                "RecordDate": "2019-06-25",
+                "DeclaredDate": "2019-06-25",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.3902,
+                "Currency": "USD",
+                "ExDate": "2019-03-20",
+                "PayDate": "2019-03-21",
+                "RecordDate": "2019-03-19",
+                "DeclaredDate": "2019-03-19",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.2238,
+                "Currency": "USD",
+                "ExDate": "2018-12-14",
+                "PayDate": "2018-12-17",
+                "RecordDate": "2018-12-13",
+                "DeclaredDate": "2018-12-13",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.1502,
+                "Currency": "USD",
+                "ExDate": "2018-09-25",
+                "PayDate": "2018-09-26",
+                "RecordDate": "2018-09-24",
+                "DeclaredDate": "2018-09-24",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.0983,
+                "Currency": "USD",
+                "ExDate": "2018-06-27",
+                "PayDate": "2018-06-28",
+                "RecordDate": "2018-06-26",
+                "DeclaredDate": "2018-06-26",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.0277,
+                "Currency": "USD",
+                "ExDate": "2018-03-23",
+                "PayDate": "2018-03-26",
+                "RecordDate": "2018-03-22",
+                "DeclaredDate": "2018-03-22",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.1262,
+                "Currency": "USD",
+                "ExDate": "2017-12-22",
+                "PayDate": "2017-12-26",
+                "RecordDate": "2017-12-21",
+                "DeclaredDate": "2017-12-21",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.129,
+                "Currency": "USD",
+                "ExDate": "2017-09-19",
+                "PayDate": "2017-09-20",
+                "RecordDate": "2017-09-18",
+                "DeclaredDate": "2017-09-18",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.96,
+                "Currency": "USD",
+                "ExDate": "2017-06-22",
+                "PayDate": "2017-06-23",
+                "RecordDate": "2017-06-21",
+                "DeclaredDate": "2017-06-21",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.961,
+                "Currency": "USD",
+                "ExDate": "2017-03-21",
+                "PayDate": "2017-03-22",
+                "RecordDate": "2017-03-20",
+                "DeclaredDate": "2017-03-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.254,
+                "Currency": "USD",
+                "ExDate": "2016-12-21",
+                "PayDate": "2016-12-22",
+                "RecordDate": "2016-12-20",
+                "DeclaredDate": "2016-12-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.852,
+                "Currency": "USD",
+                "ExDate": "2016-09-12",
+                "PayDate": "2016-09-13",
+                "RecordDate": "2016-09-09",
+                "DeclaredDate": "2016-09-09",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.908,
+                "Currency": "USD",
+                "ExDate": "2016-06-20",
+                "PayDate": "2016-06-21",
+                "RecordDate": "2016-06-17",
+                "DeclaredDate": "2016-06-17",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.962,
+                "Currency": "USD",
+                "ExDate": "2016-03-18",
+                "PayDate": "2016-03-21",
+                "RecordDate": "2016-03-17",
+                "DeclaredDate": "2016-03-17",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 1.042,
+                "Currency": "USD",
+                "ExDate": "2015-12-18",
+                "PayDate": "2015-12-21",
+                "RecordDate": "2015-12-17",
+                "DeclaredDate": "2015-12-17",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.911,
+                "Currency": "USD",
+                "ExDate": "2015-09-18",
+                "PayDate": "2015-09-21",
+                "RecordDate": "2015-09-17",
+                "DeclaredDate": "2015-09-17",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.86,
+                "Currency": "USD",
+                "ExDate": "2015-06-19",
+                "PayDate": "2015-06-22",
+                "RecordDate": "2015-06-18",
+                "DeclaredDate": "2015-06-18",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.934,
+                "Currency": "USD",
+                "ExDate": "2015-03-20",
+                "PayDate": "2015-03-23",
+                "RecordDate": "2015-03-19",
+                "DeclaredDate": "2015-03-19",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.981,
+                "Currency": "USD",
+                "ExDate": "2014-12-17",
+                "PayDate": "2014-12-18",
+                "RecordDate": "2014-12-16",
+                "DeclaredDate": "2014-12-16",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.826,
+                "Currency": "USD",
+                "ExDate": "2014-09-19",
+                "PayDate": "2014-09-22",
+                "RecordDate": "2014-09-18",
+                "DeclaredDate": "2014-09-18",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.762,
+                "Currency": "USD",
+                "ExDate": "2014-06-20",
+                "PayDate": "2014-06-23",
+                "RecordDate": "2014-06-19",
+                "DeclaredDate": "2014-06-19",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.734,
+                "Currency": "USD",
+                "ExDate": "2014-03-21",
+                "PayDate": "2014-03-24",
+                "RecordDate": "2014-03-20",
+                "DeclaredDate": "2014-03-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.869,
+                "Currency": "USD",
+                "ExDate": "2013-12-23",
+                "PayDate": "2013-12-24",
+                "RecordDate": "2013-12-20",
+                "DeclaredDate": "2013-12-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.747,
+                "Currency": "USD",
+                "ExDate": "2013-09-20",
+                "PayDate": "2013-09-23",
+                "RecordDate": "2013-09-19",
+                "DeclaredDate": "2013-09-19",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.697,
+                "Currency": "USD",
+                "ExDate": "2013-06-21",
+                "PayDate": "2013-06-24",
+                "RecordDate": "2013-06-20",
+                "DeclaredDate": "2013-06-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.635,
+                "Currency": "USD",
+                "ExDate": "2013-03-21",
+                "PayDate": "2013-03-22",
+                "RecordDate": "2013-03-20",
+                "DeclaredDate": "2013-03-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.905,
+                "Currency": "USD",
+                "ExDate": "2012-12-21",
+                "PayDate": "2012-12-24",
+                "RecordDate": "2012-12-20",
+                "DeclaredDate": "2012-12-20",
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.651,
+                "Currency": "USD",
+                "ExDate": "2012-09-21",
+                "PayDate": "2012-09-24",
+                "RecordDate": "2012-09-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.607,
+                "Currency": "USD",
+                "ExDate": "2012-06-22",
+                "PayDate": "2012-06-25",
+                "RecordDate": "2012-06-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.536,
+                "Currency": "USD",
+                "ExDate": "2012-03-23",
+                "PayDate": "2012-03-26",
+                "RecordDate": "2012-03-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.651,
+                "Currency": "USD",
+                "ExDate": "2011-12-22",
+                "PayDate": "2011-12-23",
+                "RecordDate": "2011-12-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.554,
+                "Currency": "USD",
+                "ExDate": "2011-09-22",
+                "PayDate": "2011-09-23",
+                "RecordDate": "2011-09-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.536,
+                "Currency": "USD",
+                "ExDate": "2011-06-23",
+                "PayDate": "2011-06-24",
+                "RecordDate": "2011-06-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.505,
+                "Currency": "USD",
+                "ExDate": "2011-03-24",
+                "PayDate": "2011-03-25",
+                "RecordDate": "2011-03-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.494,
+                "Currency": "USD",
+                "ExDate": "2010-12-23",
+                "PayDate": "2010-12-27",
+                "RecordDate": "2010-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.529,
+                "Currency": "USD",
+                "ExDate": "2010-09-23",
+                "PayDate": "2010-09-24",
+                "RecordDate": "2010-09-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.506,
+                "Currency": "USD",
+                "ExDate": "2010-06-28",
+                "PayDate": "2010-06-29",
+                "RecordDate": "2010-06-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.437,
+                "Currency": "USD",
+                "ExDate": "2010-03-29",
+                "PayDate": "2010-03-30",
+                "RecordDate": "2010-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.659,
+                "Currency": "USD",
+                "ExDate": "2009-12-28",
+                "PayDate": "2009-12-29",
+                "RecordDate": "2009-12-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.482,
+                "Currency": "USD",
+                "ExDate": "2009-09-28",
+                "PayDate": "2009-09-29",
+                "RecordDate": "2009-09-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.435,
+                "Currency": "USD",
+                "ExDate": "2009-06-23",
+                "PayDate": "2009-06-24",
+                "RecordDate": "2009-06-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.528,
+                "Currency": "USD",
+                "ExDate": "2009-03-26",
+                "PayDate": "2009-03-27",
+                "RecordDate": "2009-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.7,
+                "Currency": "USD",
+                "ExDate": "2008-12-26",
+                "PayDate": "2008-12-29",
+                "RecordDate": "2008-12-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.635,
+                "Currency": "USD",
+                "ExDate": "2008-09-25",
+                "PayDate": "2008-09-26",
+                "RecordDate": "2008-09-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.57,
+                "Currency": "USD",
+                "ExDate": "2008-06-26",
+                "PayDate": "2008-06-27",
+                "RecordDate": "2008-06-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.6,
+                "Currency": "USD",
+                "ExDate": "2008-03-27",
+                "PayDate": "2008-03-28",
+                "RecordDate": "2008-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.75,
+                "Currency": "USD",
+                "ExDate": "2007-12-21",
+                "PayDate": "2007-12-24",
+                "RecordDate": "2007-12-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.62,
+                "Currency": "USD",
+                "ExDate": "2007-09-21",
+                "PayDate": "2007-09-24",
+                "RecordDate": "2007-09-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.57,
+                "Currency": "USD",
+                "ExDate": "2007-06-22",
+                "PayDate": "2007-06-25",
+                "RecordDate": "2007-06-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.55,
+                "Currency": "USD",
+                "ExDate": "2007-03-23",
+                "PayDate": "2007-03-26",
+                "RecordDate": "2007-03-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.65,
+                "Currency": "USD",
+                "ExDate": "2006-12-26",
+                "PayDate": "2006-12-27",
+                "RecordDate": "2006-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.52,
+                "Currency": "USD",
+                "ExDate": "2006-09-22",
+                "PayDate": "2006-09-25",
+                "RecordDate": "2006-09-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.48,
+                "Currency": "USD",
+                "ExDate": "2006-06-23",
+                "PayDate": "2006-06-26",
+                "RecordDate": "2006-06-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.49,
+                "Currency": "USD",
+                "ExDate": "2006-03-17",
+                "PayDate": "2006-03-20",
+                "RecordDate": "2006-03-16",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.6,
+                "Currency": "USD",
+                "ExDate": "2005-12-28",
+                "PayDate": "2005-12-29",
+                "RecordDate": "2005-12-27",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.53,
+                "Currency": "USD",
+                "ExDate": "2005-09-23",
+                "PayDate": "2005-09-26",
+                "RecordDate": "2005-09-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.42,
+                "Currency": "USD",
+                "ExDate": "2005-06-24",
+                "PayDate": "2005-06-27",
+                "RecordDate": "2005-06-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.43,
+                "Currency": "USD",
+                "ExDate": "2005-03-23",
+                "PayDate": "2005-03-28",
+                "RecordDate": "2005-03-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.83,
+                "Currency": "USD",
+                "ExDate": "2004-12-23",
+                "PayDate": "2005-01-03",
+                "RecordDate": "2004-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.41,
+                "Currency": "USD",
+                "ExDate": "2004-09-24",
+                "PayDate": "2004-09-27",
+                "RecordDate": "2004-09-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.35,
+                "Currency": "USD",
+                "ExDate": "2004-06-25",
+                "PayDate": "2004-06-28",
+                "RecordDate": "2004-06-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.36,
+                "Currency": "USD",
+                "ExDate": "2004-03-26",
+                "PayDate": "2004-03-29",
+                "RecordDate": "2004-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.47,
+                "Currency": "USD",
+                "ExDate": "2003-12-26",
+                "PayDate": "2004-01-02",
+                "RecordDate": "2003-12-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.36,
+                "Currency": "USD",
+                "ExDate": "2003-09-26",
+                "PayDate": "2003-09-29",
+                "RecordDate": "2003-09-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.3,
+                "Currency": "USD",
+                "ExDate": "2003-06-20",
+                "PayDate": "2003-06-23",
+                "RecordDate": "2003-06-19",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.3,
+                "Currency": "USD",
+                "ExDate": "2003-03-28",
+                "PayDate": "2003-03-31",
+                "RecordDate": "2003-03-27",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.42,
+                "Currency": "USD",
+                "ExDate": "2002-12-27",
+                "PayDate": "2003-01-02",
+                "RecordDate": "2002-12-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.35,
+                "Currency": "USD",
+                "ExDate": "2002-09-27",
+                "PayDate": "2002-09-30",
+                "RecordDate": "2002-09-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.3,
+                "Currency": "USD",
+                "ExDate": "2002-06-21",
+                "PayDate": "2002-06-24",
+                "RecordDate": "2002-06-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.29,
+                "Currency": "USD",
+                "ExDate": "2002-03-22",
+                "PayDate": "2002-03-25",
+                "RecordDate": "2002-03-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.385,
+                "Currency": "USD",
+                "ExDate": "2001-12-28",
+                "PayDate": "2002-01-02",
+                "RecordDate": "2001-12-27",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.32,
+                "Currency": "USD",
+                "ExDate": "2001-09-21",
+                "PayDate": "2001-09-24",
+                "RecordDate": "2001-09-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.28,
+                "Currency": "USD",
+                "ExDate": "2001-06-22",
+                "PayDate": "2001-06-25",
+                "RecordDate": "2001-06-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.29,
+                "Currency": "USD",
+                "ExDate": "2001-03-16",
+                "PayDate": "2001-03-19",
+                "RecordDate": "2001-03-15",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.37,
+                "Currency": "USD",
+                "ExDate": "2000-12-26",
+                "PayDate": "2001-01-02",
+                "RecordDate": "2000-12-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.32,
+                "Currency": "USD",
+                "ExDate": "2000-09-25",
+                "PayDate": "2000-09-25",
+                "RecordDate": "2000-09-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.31,
+                "Currency": "USD",
+                "ExDate": "2000-06-26",
+                "PayDate": "2000-06-26",
+                "RecordDate": "2000-06-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.3,
+                "Currency": "USD",
+                "ExDate": "2000-03-27",
+                "PayDate": "2000-03-27",
+                "RecordDate": "2000-03-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.41,
+                "Currency": "USD",
+                "ExDate": "1999-12-27",
+                "PayDate": "2000-01-03",
+                "RecordDate": "1999-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.04,
+                "Currency": "USD",
+                "ExDate": "1999-12-27",
+                "PayDate": "2000-01-03",
+                "RecordDate": "1999-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainShortTerm"
+            },
+            {
+                "DividendAmount": 0.5,
+                "Currency": "USD",
+                "ExDate": "1999-12-27",
+                "PayDate": "2000-01-03",
+                "RecordDate": "1999-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainLongTerm"
+            },
+            {
+                "DividendAmount": 0.35,
+                "Currency": "USD",
+                "ExDate": "1999-09-27",
+                "PayDate": "1999-09-27",
+                "RecordDate": "1999-09-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.38,
+                "Currency": "USD",
+                "ExDate": "1999-06-28",
+                "PayDate": "1999-06-28",
+                "RecordDate": "1999-06-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1999-03-29",
+                "PayDate": "1999-03-30",
+                "RecordDate": "1999-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.035,
+                "Currency": "USD",
+                "ExDate": "1999-03-29",
+                "PayDate": "1999-03-30",
+                "RecordDate": "1999-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainShortTerm"
+            },
+            {
+                "DividendAmount": 0.42,
+                "Currency": "USD",
+                "ExDate": "1999-03-29",
+                "PayDate": "1999-03-30",
+                "RecordDate": "1999-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainLongTerm"
+            },
+            {
+                "DividendAmount": 0.52,
+                "Currency": "USD",
+                "ExDate": "1998-12-23",
+                "PayDate": "1999-01-04",
+                "RecordDate": "1998-12-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.06,
+                "Currency": "USD",
+                "ExDate": "1998-12-23",
+                "PayDate": "1999-01-04",
+                "RecordDate": "1998-12-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainShortTerm"
+            },
+            {
+                "DividendAmount": 0.24,
+                "Currency": "USD",
+                "ExDate": "1998-12-23",
+                "PayDate": "1999-01-04",
+                "RecordDate": "1998-12-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainLongTerm"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1998-09-28",
+                "PayDate": "1998-09-29",
+                "RecordDate": "1998-09-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1998-06-29",
+                "PayDate": "1998-06-30",
+                "RecordDate": "1998-06-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1998-03-27",
+                "PayDate": "1998-03-31",
+                "RecordDate": "1998-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.025,
+                "Currency": "USD",
+                "ExDate": "1998-03-27",
+                "PayDate": "1998-03-31",
+                "RecordDate": "1998-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainShortTerm"
+            },
+            {
+                "DividendAmount": 0.025,
+                "Currency": "USD",
+                "ExDate": "1998-03-27",
+                "PayDate": "1998-03-31",
+                "RecordDate": "1998-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainMediumTerm"
+            },
+            {
+                "DividendAmount": 0.075,
+                "Currency": "USD",
+                "ExDate": "1998-03-27",
+                "PayDate": "1998-03-31",
+                "RecordDate": "1998-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainLongTerm"
+            },
+            {
+                "DividendAmount": 0.51,
+                "Currency": "USD",
+                "ExDate": "1997-12-23",
+                "PayDate": "1998-01-02",
+                "RecordDate": "1997-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.145,
+                "Currency": "USD",
+                "ExDate": "1997-12-23",
+                "PayDate": "1998-01-02",
+                "RecordDate": "1997-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainShortTerm"
+            },
+            {
+                "DividendAmount": 0.405,
+                "Currency": "USD",
+                "ExDate": "1997-12-23",
+                "PayDate": "1998-01-02",
+                "RecordDate": "1997-12-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Other",
+                "Type": "CapitalGainLongTerm"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1997-09-24",
+                "PayDate": "1997-09-29",
+                "RecordDate": "1997-09-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1997-06-25",
+                "PayDate": "1997-06-30",
+                "RecordDate": "1997-06-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.27,
+                "Currency": "USD",
+                "ExDate": "1997-03-25",
+                "PayDate": "1997-03-31",
+                "RecordDate": "1997-03-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.04,
+                "Currency": "USD",
+                "ExDate": "1997-03-25",
+                "PayDate": "1997-03-31",
+                "RecordDate": "1997-03-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainLongTerm"
+            },
+            {
+                "DividendAmount": 0.62,
+                "Currency": "USD",
+                "ExDate": "1996-12-20",
+                "PayDate": "1997-01-02",
+                "RecordDate": "1996-12-19",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1996-09-25",
+                "PayDate": "1996-09-30",
+                "RecordDate": "1996-09-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1996-06-25",
+                "PayDate": "1996-06-28",
+                "RecordDate": "1996-06-24",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.03,
+                "Currency": "USD",
+                "ExDate": "1996-03-26",
+                "PayDate": "1996-03-29",
+                "RecordDate": "1996-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.59,
+                "Currency": "USD",
+                "ExDate": "1995-12-22",
+                "PayDate": "1996-01-02",
+                "RecordDate": "1995-12-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1995-09-26",
+                "PayDate": "1995-09-29",
+                "RecordDate": "1995-09-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1995-06-21",
+                "PayDate": "1995-06-26",
+                "RecordDate": "1995-06-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1995-03-22",
+                "PayDate": "1995-03-27",
+                "RecordDate": "1995-03-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.09,
+                "Currency": "USD",
+                "ExDate": "1994-12-28",
+                "PayDate": "1995-01-03",
+                "RecordDate": "1994-12-27",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1994-09-21",
+                "PayDate": "1994-09-26",
+                "RecordDate": "1994-09-20",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1994-06-22",
+                "PayDate": "1994-06-27",
+                "RecordDate": "1994-06-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.07,
+                "Currency": "USD",
+                "ExDate": "1994-03-24",
+                "PayDate": "1994-03-28",
+                "RecordDate": "1994-03-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.47,
+                "Currency": "USD",
+                "ExDate": "1993-12-30",
+                "PayDate": "1994-01-03",
+                "RecordDate": "1993-12-28",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1993-09-22",
+                "PayDate": "1993-09-27",
+                "RecordDate": "1993-09-21",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1993-06-24",
+                "PayDate": "1993-06-28",
+                "RecordDate": "1993-06-22",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.02,
+                "Currency": "USD",
+                "ExDate": "1993-03-25",
+                "PayDate": "1993-03-29",
+                "RecordDate": "1993-03-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.1,
+                "Currency": "USD",
+                "ExDate": "1992-12-30",
+                "PayDate": "1993-01-05",
+                "RecordDate": "1992-12-28",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1992-09-24",
+                "PayDate": "1992-10-01",
+                "RecordDate": "1992-09-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1992-06-25",
+                "PayDate": "1992-07-01",
+                "RecordDate": "1992-06-23",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.22,
+                "Currency": "USD",
+                "ExDate": "1992-03-27",
+                "PayDate": "1992-04-01",
+                "RecordDate": "1992-03-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.05,
+                "Currency": "USD",
+                "ExDate": "1991-12-30",
+                "PayDate": "1992-01-02",
+                "RecordDate": "1991-12-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.18,
+                "Currency": "USD",
+                "ExDate": "1991-09-27",
+                "PayDate": "1991-10-02",
+                "RecordDate": "1991-09-25",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.18,
+                "Currency": "USD",
+                "ExDate": "1991-06-27",
+                "PayDate": "1991-07-02",
+                "RecordDate": "1991-06-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.18,
+                "Currency": "USD",
+                "ExDate": "1991-03-27",
+                "PayDate": "1991-04-03",
+                "RecordDate": "1991-03-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.05,
+                "Currency": "USD",
+                "ExDate": "1990-12-27",
+                "PayDate": "1991-01-02",
+                "RecordDate": "1990-12-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            },
+            {
+                "DividendAmount": 0.18,
+                "Currency": "USD",
+                "ExDate": "1990-09-28",
+                "PayDate": "1990-10-02",
+                "RecordDate": "1990-09-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.18,
+                "Currency": "USD",
+                "ExDate": "1990-06-28",
+                "PayDate": "1990-07-02",
+                "RecordDate": "1990-06-26",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Quarterly",
+                "Type": "OrdinaryDividend"
+            },
+            {
+                "DividendAmount": 0.05,
+                "Currency": "USD",
+                "ExDate": "1990-03-29",
+                "PayDate": "1990-04-30",
+                "RecordDate": "1990-03-27",
+                "DeclaredDate": null,
+                "PaymentFrequency": "Annual",
+                "Type": "CapitalGainTrust"
+            }
+        ],
+        "Security": {
+            "Industry": "InvestmentTrustsOrMutualFunds",
+            "Sector": "Miscellaneous",
+            "MarketIdentificationCode": "_MFQS",
+            "Market": "NASDAQ OMX Group MFQS (Mutual Fund Dissemination Service)",
+            "InstrumentClass": "Fund",
+            "Name": "Vanguard Index Funds - Vanguard Index Trust 500 Index Fund",
+            "FIGI": null,
+            "SEDOL": "2936620",
+            "Valoren": "983129",
+            "ISIN": "US9229081081",
+            "Symbol": "VFINX",
+            "CUSIP": "922908108",
+            "CIK": "0000036405"
+        },
+        "EndDate": "2020-11-27",
+        "StartDate": "1989-01-01",
+        "IdentifierAsOfDate": "",
+        "IdentifierType": "Symbol",
+        "Identifier": "vfinx",
+        "CorporateActionsAdjusted": "true",
+        "Identity": "Request",
+        "Message": null
+    }
+}

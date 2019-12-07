@@ -1,0 +1,13 @@
+.home-container {
+    width: 600px;
+}
+
+.field {
+    display: flex;
+    justify-content: space-between;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
